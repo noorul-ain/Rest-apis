@@ -1,0 +1,17 @@
+asgiref==3.7.2
+Django==5.0.2
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+PyJWT==2.8.0
+pytz==2024.1
+sqlparse==0.4.4
+
+
+http POST http://127.0.0.1:8000/gettoken/ username="abc" password=""8327
+
+http POST http://127.0.0.1:8000/verifytoken/ token="8734293----"
+
+http POST http://127.0.0.1:8000/refreshtoken/ refresh="8324792---"
+
+yu can learcn jwt.io 
+

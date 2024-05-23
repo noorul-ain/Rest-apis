@@ -1,0 +1,12 @@
+asgiref==3.7.2
+Django==5.0.1
+djangorestframework==3.14.0
+pytz==2024.1
+sqlparse==0.4.4
+
+list () Get All Record
+retrive () Get Single Record
+create() Create/Insert Record
+update() Update Record Compltly
+partial_update() Partial Update Record
+destryoy() Delete record 
